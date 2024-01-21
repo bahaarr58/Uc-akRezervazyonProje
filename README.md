@@ -1,0 +1,1 @@
+Uçak Rezervasyon Uygulaması Bu uygulama, basit bir uçak rezervasyon sistemini simüle eden bir C# konsol uygulamasıdır. Kullanıcılar, uçakları ekleyebilir, lokasyonları yönetebilir, uçuşlar oluşturabilir ve rezervasyon yapabilirler.
