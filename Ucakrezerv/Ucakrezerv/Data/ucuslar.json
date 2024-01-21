@@ -1,0 +1,18 @@
+[
+  {
+    "Lokasyon": {
+      "Ulke": "TR",
+      "Sehir": "İSTANBUL",
+      "Havaalani": "SAW",
+      "Aktif": true
+    },
+    "Saat": "10:00",
+    "UcakBilgisi": {
+      "Model": "A380-900",
+      "Marka": "PEG",
+      "SeriNo": "1907",
+      "KoltukKapasitesi": 656
+    }
+  }
+]
+[]}

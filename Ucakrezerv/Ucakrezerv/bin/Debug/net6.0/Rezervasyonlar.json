@@ -1,0 +1,24 @@
+[
+  {
+    "Ucus": {
+      "Lokasyon": {
+        "Ulke": "Turkiye",
+        "Sehir": "İstanbul",
+        "Havaalani": "SAW",
+        "Aktif": true
+      },
+      "Saat": "12:00",
+      "UcakBilgisi": {
+        "Model": "TR-1907",
+        "Marka": "BMW",
+        "SeriNo": "1416",
+        "KoltukKapasitesi": 358
+      }
+    },
+    "Musteri": {
+      "Ad": "Ecem",
+      "Soyad": "Çetin",
+      "Yas": 22
+    }
+  }
+]
